@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "thumbnail": "https://i.ibb.co.com/BKFyz7Dg/train.webp",
+    "toyName": "Lego Creative Bricks",
+    "rating": 4.8,
+    "availableQuantity": 85,
+    "price": 49.99
+  },
+  {
+    "id": 2,
+    "thumbnail": "https://i.ibb.co.com/4Z7xmx1v/ball.webp",
+    "toyName": "RC Monster Truck",
+    "rating": 4.6,
+    "availableQuantity": 50,
+    "price": 89.99
+  },
+  {
+    "id": 3,
+    "thumbnail": "https://i.ibb.co.com/N6CQ65Z6/carrr.webp",
+    "toyName": "Cuddly Teddy Bear",
+    "rating": 4.9,
+    "availableQuantity": 120,
+    "price": 25.99
+  },
+  {
+    "id": 4,
+    "thumbnail": "https://i.ibb.co.com/JRcVYhjm/toysss.webp",
+    "toyName": "Superhero Action Figure",
+    "rating": 4.5,
+    "availableQuantity": 70,
+    "price": 34.99
+  },
+  {
+    "id": 5,
+    "thumbnail": "https://i.ibb.co.com/fVq50Tqt/book.webp",
+    "toyName": "Baby Musical Rattle Set",
+    "rating": 4.7,
+    "availableQuantity": 140,
+    "price": 15.99
+  },
+  {
+    "id": 6,
+    "thumbnail": "https://i.ibb.co.com/whVQnKH2/duck.webp",
+    "toyName": "Outdoor Bubble Blaster",
+    "rating": 4.4,
+    "availableQuantity": 100,
+    "price": 19.99
+  }
+]
